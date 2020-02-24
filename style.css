@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.btn-buy{
+    background-color: #c0392b;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 10px;
+    
+}
+
+.see-all{
+    color: #d35400;
+}
+
+.text-center{
+    padding-top: 15px;
+}
+
+.price{
+    color: #8e44ad;
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+.img-width img{
+    width: 320px;
+}
+
+
+.cat-right-t, .cat-right-b{
+    padding-left: 40px;
+}
+
+.cat-right-t{
+    margin-bottom: 100px;
+}
+
+.cat-right-b{
+    margin-top: 140px;
+}
